@@ -1,7 +1,7 @@
 import React, { useLayoutEffect, useRef } from "react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import gsap from "gsap";
-import styles from "./style.module.css";
+import styles from "@/app/components/Description/style.module.css";
 
 const phrases = [
   "Discover the Ferimo Eyewear Collection",

@@ -1,11 +1,6 @@
 @import "node_modules/locomotive-scroll/dist/locomotive-scroll";
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
+  margin: 0;
   background-color: rgb(12, 12, 12);
 }
