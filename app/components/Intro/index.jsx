@@ -1,6 +1,6 @@
 "use client";
 import React, { useLayoutEffect, useRef } from "react";
-import styles from "@/app/components/intro/style.module.css";
+import styles from "@/app/components/Intro/style.module.css";
 
 import Image from "next/image";
 import gsap from "gsap";
