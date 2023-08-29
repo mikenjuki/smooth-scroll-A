@@ -4,7 +4,7 @@ Scroll animation experiment
 
 Libraries used include GSAP & Framer Motion
 
-### Live Page
+### Live Web App
 
 You can view the page live at:
 [Visit Site](https://smooth-scroll-a.vercel.app/)
