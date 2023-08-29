@@ -1,6 +1,8 @@
 ## About
 
-Scroll animation experiments
+Scroll animation experiment
+
+Libraries used include GSAP & Framer Motion
 
 ### Live Page
 
